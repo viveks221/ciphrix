@@ -8,7 +8,7 @@ This is a web application that allows users to log in and find nearby friends ba
 - Session management with automatic logout after 5 minutes
 - Fetching and displaying nearby friends based on location and common activities
 - Geolocation support to get user's current location
-- 
+
 
 ## Technologies Used
 
